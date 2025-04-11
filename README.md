@@ -8,7 +8,7 @@ Agenti is a full-stack AI chatbot application that integrates FastAPI and Stream
 
 - Built with FastAPI (backend) and Streamlit (frontend)
 - Supports multiple model providers:
-  - Groq (`gemma2-9b-it`)
+  - Groq (`gemma2-9b-it`) (Note : You can add yours as well. )
   - OpenAI (`gpt-4o-mini`)
 - Web-augmented answers via Tavily Search (optional)
 - Modular agent design using LangGraph ReAct
